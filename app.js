@@ -65,7 +65,7 @@ document.addEventListener("DOMContentLoaded", function () {
             //var x = document.getElementById(div.id).nextSibling;
             
             if (num % 2 === 0) {
-                let x = document.getElementById(div.id).nextSibling;
+                //let x = document.getElementById(div.id).nextSibling;
                 console.log(typeof x);
                 console.log(x);
                 
